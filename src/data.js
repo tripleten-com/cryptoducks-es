@@ -9,23 +9,23 @@ const data = {
     },
     {
       id: 1,
-      name: "Жикря-краф",
+      name: "Giraffe Duck",
       description:
-        "Самая высокая криптоутка в истории. В тайных архивах обнаружены обрывистые воспоминания путешественники Василия Жилина об ужасающей встрече с представителем этого вида: «Это было летом 1962 г. Мы разбили лагерь, все уже легли спать, когда из кустов раздалось странное шуршание. Включив фонарик, я увидел... Эта длинная шея... метр, не иначе! Я до сих пор помню это кряканье. Ужасное, ужасное кряканье.",
+        "This is one of the tallest cryptoducks on record. One eyewitness reported a harrowing account of an encounter with one such creature. Thomas Maltese and his family were camping in New Jersey in the summer of 1962, «I had just put the kids to bed when I heard a rustling sound in the nearby brush. I shined my flashlight and there it was, the neck must have been 3 feet long. I still remember the quacking. Oh the terrible, terrible quacking. My life changed the night.»",
       img: "/duck-images/giraffe-duck.png",
     },
     {
       id: 2,
-      name: "Зебрутка",
+      name: "Zebra Duck",
       description:
-        "Эта пугливая красавица была замечена в Центральной Африке. Криптоуктологи установили, что этих величественных зеброуток можно встретить только в безветренную ночь на горе под полной луной в зените.",
+        "This skittish beauty has been sighted in central Africa. Cryptoduckologists assert that the best time to see one of these magnificent quackers is when the full moon is at its highest point on a windless night.",
       img: "/duck-images/zebra-duck.png",
     },
     {
       id: 3,
-      name: "Неопознанная летающая утка",
+      name: "UFO Duck",
       description:
-        "Многие встречали этих уток. Учёные до сих пор не знают, зачем они продолжают посещать нашу планету. Каковы их намерения? Они мирные наблюдатели или злодеи? Возможно, мы никогда не узнаем правды.",
+        "Many have encountered this duck. We do not know why they continue to visit us. Perhaps they are peaceful observers, or perhaps they have more sinister intentions. It's possible we will never know.",
       img: "/duck-images/ufo-duck.png",
     },
   ],
