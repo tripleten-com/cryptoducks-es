@@ -9,23 +9,23 @@ const data = {
     },
     {
       id: 1,
-      name: "Giraffe Duck",
+      name: "Pato jirafa (Giraffe Duck)",
       description:
-        "This is one of the tallest cryptoducks on record. One eyewitness reported a harrowing account of an encounter with one such creature. Thomas Maltese and his family were camping in New Jersey in the summer of 1962, «I had just put the kids to bed when I heard a rustling sound in the nearby brush. I shined my flashlight and there it was, the neck must have been 3 feet long. I still remember the quacking. Oh the terrible, terrible quacking. My life changed the night.»",
+        "Este es uno de los cryptoducks más altos de los que se tiene registro. Un testigo visual informó sobre un encuentro desgarrador con tal criatura. Thomas Maltese y su familia se encontraban acampando en Nueva Jersey durante el verano de 1962: «acababa de acostar a los niños cuando oí un crujido procedente de un matorral cercano. Alumbré en esa dirección con mi linterna y ahí estaba. Su cuello medía, al menos, un metro de largo. Aún recuerdo su graznido… ¡oh, su terrible, terrible graznido! Aquella noche cambió mi vida.»",
       img: "/duck-images/giraffe-duck.png",
     },
     {
       id: 2,
-      name: "Zebra Duck",
+      name: "Pato cebra (Zebra Duck)",
       description:
-        "This skittish beauty has been sighted in central Africa. Cryptoduckologists assert that the best time to see one of these magnificent quackers is when the full moon is at its highest point on a windless night.",
+        "Esta bella y asustadiza criatura ha sido avistada en África central. Expertos cryptoduckólogos aseguran que el mejor momento para observar a este magnífico graznador es cuando la luna llena se halla en su punto más alto en una noche sin viento.",
       img: "/duck-images/zebra-duck.png",
     },
     {
       id: 3,
-      name: "UFO Duck",
+      name: "Pato OVNI (UFO Duck)",
       description:
-        "Many have encountered this duck. We do not know why they continue to visit us. Perhaps they are peaceful observers, or perhaps they have more sinister intentions. It's possible we will never know.",
+        "Muchos han avistado este pato. Nadie sabe el motivo por el que siguen visitándonos. Quizás sean observadores pacíficos, quizás tengan intenciones más siniestras. Es posible que jamás lo sepamos.",
       img: "/duck-images/ufo-duck.png",
     },
   ],
