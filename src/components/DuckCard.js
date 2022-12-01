@@ -1,12 +1,13 @@
 import React from 'react';
 import './styles/DuckCard.css';
+import img from "../images/dog-duck.png";
 
 function DuckCard (props) {
   let { duck }  = props;
   return (
     <div className="duck-card">
       <div className="duck-card__image">
-        <img className="duck-card__png" src={duck.img} alt="" />
+        <img className="duck-card__png" src={img} alt="" />
       </div>
       <div className="duck-card__desc">
         <p className="duck-card__name">
